@@ -1,16 +1,10 @@
-- I like telling computers that to do (: 
+- I like telling computers what to do (: 
  
-Front end { 
-HTML (80%) CSS(40%) JAVA (20%) git(90%)
+Front end Developer{ 
+HTML CSS AND JS are classic but (usefull )
+All just toys that you play to reach the core !
 }  
 
-Back end ( 
 
-Python "70% " PHP ?60%? c# (bigginer) JAVA "60%" 
-
-Relational data basees : 
-SQL server / Oracle / 
-No SQL server : mongoDB 
-) 
 I'll still learning as well as I can and tring to make all parameters to 100% but some of them aren't my type ;
-Never stop fighting for what you believe in (:
+Never stop fighting for what you believe in
